@@ -1,2 +1,2 @@
-# clustering-algorithm-k-means-clustering-
+# clustering-algorithm-k-means-plusplus-clustering-
 -- text in here --
