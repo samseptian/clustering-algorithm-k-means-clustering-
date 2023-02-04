@@ -1,2 +1,2 @@
 # algorithm-k-means-plusplus-clustering
--- text in here --
+## Algoritma clustering k-means++ pada data teks terjemahan hadits berbahasa indonesia
