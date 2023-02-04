@@ -3,8 +3,8 @@
 ## Algoritma clustering k-means++ pada data teks terjemahan hadits berbahasa indonesia
 
 * ### Dalam program ini terdapat 2 algoritma clustering, yaitu:
-#### 1. Algoritma _clustering k-means_
-#### 2. Algoritma _clustering k-means++_ 
+  #### 1. Algoritma _clustering k-means_
+  #### 2. Algoritma _clustering k-means++_ 
 
 ### Terdapat 2 teknik pengukuran jarak (_proximity measure_) yang digunakan, yaitu:
 #### 1. _Euclidean distance_
