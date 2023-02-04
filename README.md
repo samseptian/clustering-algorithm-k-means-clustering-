@@ -1,6 +1,6 @@
 # algorithm-k-means-plusplus-clustering
 
-## Algoritma clustering k-means++ pada data teks terjemahan hadits berbahasa Indonesia
+## Algoritma clustering k-means++ pada data teks terjemahan hadits bahasa Indonesia
 
 * ### Dalam program ini terdapat 2 algoritma clustering, yaitu:
   #### 1. Algoritma _clustering k-means_
