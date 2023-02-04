@@ -1,0 +1,8 @@
+numpy
+matplotlib
+nltk
+sklearn
+xlsxwriter
+Sastrawi
+pandas
+openpyxl
